@@ -8,7 +8,7 @@ void pattern19(int n){
             cout<<"*";
         }
         for(int k=1; k<=(2*i)-1;k++){
-            cout<<" ";
+            cout<<" "; 
         }
         for(int j=e; j>=1;j--){
             cout<<"*";
